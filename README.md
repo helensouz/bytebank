@@ -1,6 +1,6 @@
 # Bytebank
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
+This projectt was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
 ## Development server
 
