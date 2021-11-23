@@ -8,7 +8,7 @@ export const routes: Routes = [
 
     {path:'', redirectTo: 'extrato', pathMatch: 'full'},
     {path: 'extrato', component: ExtratoComponent},
-    {path: 'novatransferencia', component: NovatransferenciaComponent},
+    {path: 'nova-transferencia', component: NovatransferenciaComponent},
 
 ]
 

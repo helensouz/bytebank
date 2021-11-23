@@ -8,14 +8,18 @@
       color: var(--primary);
     }
   }
-  
+  .formulario_titulo{
+      text-align: center;
+  }
   .form-field {
     width: 100%;
     margin-top: 15px;
     margin-bottom: 15px;
     display: flex;
     flex-direction: column;
-    color: var(--primary);
+    color: #000;
+    font-weight: 200;
+    
   
     &__label {
       color: inherit;
@@ -28,18 +32,28 @@
       padding: 8px;
       border-radius: 4px;
       color: inherit;
-      border: 2px solid green;
+      border: 6px solid purple;
       outline: none;
+      
       
     }
   }
   
+  .form-field_input{
+    border: 2px solid purple;
+    padding: 8px;
+    border-radius: 4px;
+    outline: none;
+
+
+
+  }
   .botao-wrapper {
     display: flex;
   }
   
   .botao {
-    background-color: green;
+    background-color: purple;
     color: white;
     display: block;
     flex: 1;
