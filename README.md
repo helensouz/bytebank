@@ -1,8 +1,8 @@
 # Bytebank
-Aplicação para gerenciamento de transações utilizando AngularJS
-Projeto desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
-
-Autora: Helen Souza de Olveira
+Aplicação para gerenciamento de transações utilizando AngularJS<br>
+Projeto desenvolvido com [Angular CLI] version 13.0.2.
+<br>
+Autora: Helen Souza de Olveira<br>
 By: AluraCursos
 
 
