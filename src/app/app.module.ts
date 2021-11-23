@@ -1,3 +1,4 @@
+import { AppRoutingModule } from './app-routing.module';
 import { NovatransferenciaComponent } from './novatransferencia/novatransferencia.component';
 import { DEFAULT_CURRENCY_CODE, LOCALE_ID, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
@@ -24,6 +25,7 @@ registerLocaleData(localePt, 'pt');
     BrowserModule,
     FormsModule,
     HttpClientModule,
+    AppRoutingModule,
   ],
   providers: [
     { provide: LOCALE_ID, useValue: 'pt'}, // muda idioma angular para pt
